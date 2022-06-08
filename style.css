@@ -1,0 +1,43 @@
+#about{
+    position: absolute;
+    bottom: 0;
+    background: linear-gradient(#60ebeb 0%,#27ae60 100%);
+    display: table;
+    width:100%;
+    height:90%;
+}
+
+#video{
+    width: 50%;
+    height: 300px;
+    border: none;
+}
+
+#campus{
+    position: absolute;
+    bottom: 0;
+    background: linear-gradient(#60ebeb 0%,#27ae60 100%);
+    display: table;
+    width:100%;
+}
+
+.menu{
+    position: fixed;
+    background: white;
+    width: 100%;
+    margin-top: 0px;
+    top: 0px;
+    z-index: 10;
+    height: 10%;
+}
+
+#achievements{
+    position: absolute;
+    bottom: 0;
+    background: linear-gradient(#60ebeb 0%,#27ae60 100%);
+    display: table;
+    width:100%;
+    height:30%;
+}
+
+
